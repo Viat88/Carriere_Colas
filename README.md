@@ -1,2 +1,3 @@
 # Carriere_Colas
-VR experience on a quarry for Colas
+Expérience en Réalité Virtuelle d'une carrière de pierre pour Colas. 
+!! CETTE VERSION N'EST QU'UNE SAUVEGARDE, NE REPRÉSENTANT QU'UNE TRÈS PETITE PART DU PROJET FINAL !!
